@@ -2,4 +2,4 @@ module learning-golang-still
 
 go 1.23.6
 
-require golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0
+require golang.org/x/crypto v0.37.0
