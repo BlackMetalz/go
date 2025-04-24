@@ -16,3 +16,6 @@
 - Each type have multiples method/func inside it
 ![alt text](images/01.png)
 - No new variables on left side of `:=`, simply remove `:`, mostly error caused by you are going to declare again in same scope
+
+### Repetition leads to mastery
+- taken 2 courses of golang in kodekloud but understand nothing, take more course and learn it until i really understand basic of golang!
